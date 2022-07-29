@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Build folders
+cmake-build-debug/
+bin/
+
+# CLion IDE
+.idea/
+
+# Code Blocks
+*.cbp
